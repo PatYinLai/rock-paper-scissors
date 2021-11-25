@@ -1,2 +1,11 @@
 # rock-paper-scissors
 Rock Paper Scissors from Odin Project
+
+<h2> First Iteration | Game in the browser console </h2>
+
+<h3>What I learnt/Practiced:</h3>
+<ul>
+  <li> Learnt/Practiced how to develop functions and for loops, including how they might work together</li>
+  <li> Practiced how to plan a program out with Pseudo Code </li>
+ </ul>
+ 
