@@ -5,7 +5,14 @@ Rock Paper Scissors from Odin Project
 
 <h3>What I learnt/Practiced:</h3>
 <ul>
-  <li> Learnt/Practiced how to develop functions and for loops, including how they might work together</li>
+  <li> Learnt/Practiced how to develop functions and for loops, including how they might work together to create a program</li>
   <li> Practiced how to plan a program out with Pseudo Code </li>
+ </ul>
+ 
+<h2> Second Iteration | Adding a UI </h2>
+
+<h3>What I learnt/Practiced:</h3>
+<ul>
+  <li> How to make a website interactive by using Javascript to manipulate the DOM </li>
  </ul>
  
