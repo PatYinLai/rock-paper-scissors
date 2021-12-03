@@ -42,7 +42,7 @@ rock.addEventListener("click", () => {
     startGame();
 })
 
-//Check and declare Winner functions
+//Check if there is a winner. if so, declare the winner. 
 
 function checkWinner () {
     if (userScore === 5 || computerScore === 5) {
