@@ -4,10 +4,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>title</title>
+    <title>Rock Paper Scissors</title>
     <link rel="stylesheet" href="styles.css"/>
+   
 </head>
 <body>
-   <script src="script.js"></script> 
+<div id = "container">
+
+    <div class = "story-intro">
+        <div class= "story-img">
+            <img src ="img/bored.jpg"/>
+        </div>
+        <div class = "story-text">
+            <h1>It's a lazy sunday afternoon and your cat is bored....</h1>
+            <h2>he wants to play a game...</h2>
+            <h3>pretty please..?</h3>
+            <h2>LET'S GO SCISSORS PAPER ROCK! (first to five)</h2>
+        </div>
+    </div>
+
+
+    <div id="game">
+        <div class = "game-selection">
+            <button class="scissors"><img src="img/scissors.jpg"/><h3>SCISSORS!</h3></button>
+            <button class="paper"><img src="img/paper.jpg"/><h3>PAPER!!</h3></button>
+            <button class="rock"><img src="img/rock.jpg"/><h3>ROCK!</h3></button>
+        </div>
+        <div class = "game-results">
+            <div class ="choices">
+                <div class = "cat-choice"><img src="img/default.jpg"></div>
+                <div class = "user-choice"><img src="img/default.jpg"></div>
+            </div>
+            <div class = "result"><h2>CURRENT SCORE: 0 vs 0 </h2></div>
+        </div>
+    </div>
+ 
+  
+
+    
+</div>
+
+<script src="script.js"></script> 
+
 </body>
 </html>
