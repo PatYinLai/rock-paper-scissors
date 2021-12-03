@@ -13,7 +13,6 @@ Rock Paper Scissors from Odin Project
 
 <h3>What I learnt/Practiced:</h3>
 <ul>
-  <li> How to design/develop a website to create an overlay for a program </li>
   <li> How to make a website interactive by using Javascript to manipulate the DOM </li>
  </ul>
  
