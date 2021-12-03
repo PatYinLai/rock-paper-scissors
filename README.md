@@ -11,8 +11,11 @@ Rock Paper Scissors from Odin Project
  
 <h2> Second Iteration | Adding a UI </h2>
 
+<img src ="img/ExampleWebpage.png">
+
 <h3>What I learnt/Practiced:</h3>
 <ul>
   <li> How to make a website interactive by using Javascript to manipulate the DOM </li>
  </ul>
+ 
  
